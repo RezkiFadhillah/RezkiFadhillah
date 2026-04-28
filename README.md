@@ -69,7 +69,6 @@ Saya adalah **Informatics Fresh Graduate** yang berfokus pada pengembangan siste
 
 ### 🤝 Hubungi Saya
 - 💼 **LinkedIn:** [linkedin.com/in/rezkifadhillah](https://www.linkedin.com/in/rezki-fadhillah-8879b524b/)
-- 🌐 **Portfolio Site:** [rezkifadhportofolio.my.canva.site](https://rezkifadhportofolio.my.canva.site)
 - 📧 **Email:** rezkifadhillah9@gmail.com
 
 <p align="right"><i>Transforming data into intelligent solutions.</i> ⚡</p>
